@@ -1,0 +1,1 @@
+[{"title":"Libro 1","price":29.35,"thumbnail":"none.jpg","id":1},{"title":"Libro 2","price":243.35,"thumbnail":"none.jpg","id":2},{"title":"Libro 3","price":22.35,"thumbnail":"none.jpg","id":3}]
